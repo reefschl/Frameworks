@@ -1,0 +1,317 @@
+msgid "Über Uns"
+msgstr "About Us"
+
+msgid "Nutzerverwaltung"
+msgstr "User Management"
+
+msgid "Sprache ändern"
+msgstr "Change Language"
+
+
+msgid "Werden Sie zusammen mit uns etwas nachaltiger!"
+msgstr "Be a bite more sustainable with us!"
+
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid "Kontakt"
+msgstr "Contact"
+
+
+#: /Articles/add.php:9
+#: /Articles/edit.php:8
+
+
+
+msgid "Rezept speichern"
+msgstr "Save Recipe"
+
+
+
+
+msgid "Werden Sie ein Teil unserer 0- Waste Community und verwenden Sie auch noch übrig gebliebene Zutaten und Lebensmittel bevor Sie sie vergwerfen!"
+msgstr "Be a part of our new 0- Waste Community and use your remaining foods before throwing away! "
+
+#: /Tags/add.php:10
+#: /Tags/edit.php:10
+#: /Tags/index.php:18
+#: /Tags/view.php:10
+#: /Tags/view.php:52
+#: /Users/add.php:11
+#: /Users/edit.php:11
+#: /Users/view.php:11
+#: /Users/view.php:57
+msgid "Aktionen"
+msgstr "Options"
+
+#: /Tags/add.php:11
+#: /Tags/view.php:13
+msgid "#-Liste anzeigen"
+msgstr "#-show List"
+
+#: /Tags/add.php:18
+#: /Tags/view.php:14
+msgid "# erstellen"
+msgstr "Create #"
+
+#: /Tags/add.php:24
+msgid "Speichern"
+msgstr "Save"
+
+#: /Tags/edit.php:12
+msgid "Tag löschen"
+msgstr "Delete Tag"
+
+#: /Tags/edit.php:14
+#: /Tags/index.php:31
+#: /Users/view.php:13
+
+
+
+#: /Tags/edit.php:16
+msgid "Tags-Liste anzeigen"
+msgstr "Show Tag list"
+
+#: /Tags/edit.php:23
+msgid "Tag ändern"
+msgstr "Change Tag"
+
+#: /Tags/edit.php:29
+msgid "Tag speichern"
+msgstr "Save Tag"
+
+#: /Tags/index.php:8
+msgid "Tag hinzufügen"
+msgstr "Add Tag"
+
+#: /Tags/index.php:9
+msgid "Tags"
+msgstr "Tags"
+
+#: /Tags/index.php:29
+#: /Tags/view.php:65
+#: /Users/index.php:57
+#: /Users/view.php:70
+msgid "Anzeigen"
+msgstr "Show"
+
+#: /Tags/index.php:30
+#: /Tags/view.php:66
+#: /Users/index.php:58
+#: /Users/view.php:71
+msgid "Ändern"
+msgstr "Change"
+
+#: /Tags/index.php:31
+#: /Tags/view.php:67
+#: /Users/index.php:59
+#: /Users/view.php:72
+msgid "Löschen"
+msgstr "Delete"
+
+#: /Tags/index.php:40
+#: /Users/index.php:68
+msgid "first"
+msgstr ""
+
+#: /Tags/index.php:41
+msgid "Zurück"
+msgstr "Back"
+
+#: /Tags/index.php:43
+msgid "Nächste"
+msgstr "Next"
+
+#: /Tags/index.php:44
+#: /Users/index.php:72
+msgid "last"
+msgstr ""
+
+#: /Tags/index.php:46
+msgid "Seite {{page}} von {{pages}}, zeigt aktuell {{current}} von {{count}} Einträge(n)"
+msgstr "Site {{page}} of {{pages}} shows current {{current}} of {{count}} entries "
+
+#: /Tags/view.php:11
+msgid "# ändern"
+msgstr " Edit #"
+
+#: /Tags/view.php:12
+msgid "# löschen"
+msgstr "Delete #"
+
+#: /Tags/view.php:12
+msgid "Willst du den #  # {0} wirklich löschen?"
+msgstr "Do you really want to delete the # #{0}?"
+
+#: /Tags/view.php:22
+#: /Tags/view.php:46
+msgid "#-Name"
+msgstr "# name"
+
+#: /Tags/view.php:26
+#: /Tags/view.php:44
+#: /Users/view.php:31
+#: /Users/view.php:49
+msgid "Id"
+msgstr "Id"
+
+#: /Tags/view.php:30
+#: /Tags/view.php:50
+#: /Users/view.php:35
+#: /Users/view.php:55
+msgid "Erstellt"
+msgstr "Created"
+
+#: /Tags/view.php:34
+#: /Tags/view.php:51
+#: /Users/view.php:39
+#: /Users/view.php:56
+msgid "Zuletzt geändert"
+msgstr "Update"
+
+#: /Tags/view.php:39
+msgid "Rezepte mit diesem #"
+msgstr "Recipes with this #"
+
+#: /Tags/view.php:45
+#: /Users/view.php:50
+msgid "Nutzer Id"
+msgstr "User Id"
+
+#: /Tags/view.php:47
+#: /Users/view.php:52
+msgid "Slug"
+msgstr "Slug"
+
+#: /Tags/view.php:48
+#: /Users/view.php:53
+msgid "Bananenkuchen"
+msgstr "Banana cake"
+
+#: /Tags/view.php:49
+#: /Users/view.php:54
+msgid "Veröffentlicht"
+msgstr "Released"
+
+#: /Tags/view.php:67
+msgid "Willst du den # # {0} wirklich löschen?"
+msgstr "Do you really want to delete ## {0}?"
+
+#: /Users/add.php:12
+#: /Users/edit.php:17
+#: /Users/view.php:14
+msgid "Nutzerliste anzeigen"
+msgstr "Show User list"
+
+#: /Users/add.php:19
+#: /Users/index.php:11
+msgid "Nutzer hinzufügen"
+msgstr "Add User"
+
+#: /Users/add.php:25
+#: /Users/view.php:15
+msgid "Nutzer erstellen"
+msgstr "Create User"
+
+#: /Users/edit.php:13
+#: /Users/view.php:13
+msgid "Nutzer löschen"
+msgstr "Delete User"
+
+#: /Users/edit.php:15
+#: /Users/index.php:59
+#: /Users/view.php:72
+msgid "Bist du dir sicher # {0} zu löschen?"
+msgstr "Do you really want to delete #{0}?"
+
+#: /Users/edit.php:26
+#: /Users/view.php:12
+msgid "Nutzer ändern"
+msgstr "Edit User"
+
+#: /Users/edit.php:34
+msgid "Nutzer speichern"
+msgstr "Save User"
+
+#: /Users/index.php:12
+msgid "Nutzer"
+msgstr "Users"
+
+#: /Users/index.php:45
+msgid "Aktionen"
+msgstr "Actions"
+
+#: /Users/index.php:69
+msgid "letzte"
+msgstr "last"
+
+#: /Users/index.php:71
+msgid "nächste"
+msgstr "next"
+
+#: /Users/index.php:74
+msgid "Seite {{page}} von {{pages}}, zeigt {{current}} User(s) von insgesamt {{count}} User(n) "
+msgstr " Site {{page}} of {{pages}} shows current {{current}} Users of {{count}} User(s) "
+
+#: /Users/login.php:7
+msgid "Bitte geben Sie Ihre Email und Ihr Passwort ein"
+msgstr "Please enter your E-Mail and Password"
+
+#: /Users/login.php:11
+msgid "Login"
+msgstr "Login"
+
+#: /Users/view.php:23
+msgid "Email"
+msgstr "E-Mail"
+
+#: /Users/view.php:27
+msgid "Passwort"
+msgstr "Password"
+
+#: /Users/view.php:44
+msgid "Erstellte Rezepte"
+msgstr "Created Recipes"
+
+#: /Users/view.php:51
+msgid "Rezeptname"
+msgstr "Recipe"
+
+#: /layout/error.php:38
+msgid "Rezeptliste"
+msgstr "Recipe list"
+
+msgid "Zurzeit sehr beliebt: Ein leckerer Bananenkuchen mit Schokoglausur."
+msgstr "Very popular at the moment: A delicious banana cake with a chocolate icing."
+
+msgid "Ansehen"
+msgstr "View"
+
+msgid "Zimtkuchen"
+msgstr "Cinnamon-cake"
+
+
+msgid "Vanillepudding"
+msgstr "Vanilla pudding"
+
+msgid "Schokopudding"
+msgstr "Chocolate pudding"
+
+msgid "Der feine Schokoladen-Pudding schmeckt außergewöhnlich schokoladig durch den hochwertigen Kakao und feine Schokoladenstücke."
+msgstr "The fine chocolate pudding tastes exceptionally chocolaty thanks to the high-quality cocoa and fine chocolate pieces."
+
+msgid "Ein Zimtkuchen nach alter Art mit saftigen Rum-Rosinen und gemahlenen Mandeln, auf Wunsch sogar mit Rum-Zuckerguss."
+msgstr "An old-style cinnamon cake with juicy rum raisins and ground almonds, even with rum icing on request."
+
+msgid "Der Original Pudding Vanille-Geschmack ist die älteste und beliebteste Geschmacksrichtung der Kochpuddinge."
+msgstr "The Original Pudding Vanilla Flavor is the oldest and most popular flavor of cooking puddings."
+
+msgid "Rezeptliste"
+msgstr "Recipe list"
+
+
+
+
+
+

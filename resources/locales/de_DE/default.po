@@ -1,0 +1,280 @@
+
+msgid "Über Uns"
+msgstr "Über Uns"
+
+
+msgid "Werden Sie zusammen mit uns etwas nachaltiger!"
+msgstr " Werden Sie zusammen mit uns etwas nachaltiger!"
+
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+
+
+#: /Articles/add.php:9
+#: /Articles/edit.php:8
+
+
+
+msgid "Rezept speichern"
+msgstr "Rezept speichern"
+
+
+
+
+msgid "Werden Sie ein Teil unserer 0- Waste Community und verwenden Sie auch noch übrig gebliebene Zutaten und Lebensmittel bevor Sie sie vergwerfen!"
+msgstr "Werden Sie ein Teil unserer 0- Waste Community und verwenden Sie auch noch übrig gebliebene Zutaten und Lebensmittel bevor Sie sie vergwerfen!"
+
+#: /Tags/add.php:10
+#: /Tags/edit.php:10
+#: /Tags/index.php:18
+#: /Tags/view.php:10
+#: /Tags/view.php:52
+#: /Users/add.php:11
+#: /Users/edit.php:11
+#: /Users/view.php:11
+#: /Users/view.php:57
+msgid "Aktionen"
+msgstr ""
+
+#: /Tags/add.php:11
+#: /Tags/view.php:13
+msgid "#-Liste anzeigen"
+msgstr "#-Liste anzeigen"
+
+#: /Tags/add.php:18
+#: /Tags/view.php:14
+msgid "# erstellen"
+msgstr "# erstellen"
+
+#: /Tags/add.php:24
+msgid "Speichern"
+msgstr " Speichern"
+
+#: /Tags/edit.php:12
+msgid "Tag löschen"
+msgstr "Tag löschen"
+
+#: /Tags/edit.php:14
+#: /Tags/index.php:31
+#: /Users/view.php:13
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: /Tags/edit.php:16
+msgid "Tags-Liste anzeigen"
+msgstr "Tags-Liste anzeigen"
+
+#: /Tags/edit.php:23
+msgid "Tag ändern"
+msgstr "Tag ändern"
+
+#: /Tags/edit.php:29
+msgid "Tag speichern"
+msgstr "Tag speichern"
+
+#: /Tags/index.php:8
+msgid "Tag hinzufügen"
+msgstr "Tag hinzufügen"
+
+#: /Tags/index.php:9
+msgid "Tags"
+msgstr "Tags"
+
+#: /Tags/index.php:29
+#: /Tags/view.php:65
+#: /Users/index.php:57
+#: /Users/view.php:70
+msgid "Anzeigen"
+msgstr "Anzeigen"
+
+#: /Tags/index.php:30
+#: /Tags/view.php:66
+#: /Users/index.php:58
+#: /Users/view.php:71
+msgid "Ändern"
+msgstr "Ändern"
+
+#: /Tags/index.php:31
+#: /Tags/view.php:67
+#: /Users/index.php:59
+#: /Users/view.php:72
+msgid "Löschen"
+msgstr "Löschen"
+
+#: /Tags/index.php:40
+#: /Users/index.php:68
+msgid "first"
+msgstr ""
+
+#: /Tags/index.php:41
+msgid "Zurück"
+msgstr "Zurück"
+
+#: /Tags/index.php:43
+msgid "Nächste"
+msgstr "Nächste"
+
+#: /Tags/index.php:44
+#: /Users/index.php:72
+msgid "last"
+msgstr ""
+
+#: /Tags/index.php:46
+msgid "Seite {{page}} von {{pages}}, zeigt aktuell {{current}} von {{count}} Einträge(n)"
+msgstr "Seite {{page}} von {{pages}}, zeigt aktuell {{current}} von {{count}} Einträge(n)"
+
+#: /Tags/view.php:11
+msgid "# ändern"
+msgstr "# ändern"
+
+#: /Tags/view.php:12
+msgid "# löschen"
+msgstr "# löschen"
+
+#: /Tags/view.php:12
+msgid "Willst du den #  # {0} wirklich löschen?"
+msgstr " Willst du den #  # {0} wirklich löschen?"
+
+#: /Tags/view.php:22
+#: /Tags/view.php:46
+msgid "#-Name"
+msgstr "#-Name"
+
+#: /Tags/view.php:26
+#: /Tags/view.php:44
+#: /Users/view.php:31
+#: /Users/view.php:49
+msgid "Id"
+msgstr "Id"
+
+#: /Tags/view.php:30
+#: /Tags/view.php:50
+#: /Users/view.php:35
+#: /Users/view.php:55
+msgid "Erstellt"
+msgstr "Erstellt"
+
+#: /Tags/view.php:34
+#: /Tags/view.php:51
+#: /Users/view.php:39
+#: /Users/view.php:56
+msgid "Zuletzt geändert"
+msgstr "Zuletzt geändert"
+
+#: /Tags/view.php:39
+msgid "Rezepte mit diesem #"
+msgstr "Rezepte mit diesem #"
+
+#: /Tags/view.php:45
+#: /Users/view.php:50
+msgid "Nutzer Id"
+msgstr "Nutzer Id"
+
+#: /Tags/view.php:47
+#: /Users/view.php:52
+msgid "Slug"
+msgstr ""
+
+#: /Tags/view.php:48
+#: /Users/view.php:53
+msgid "Body"
+msgstr ""
+
+#: /Tags/view.php:49
+#: /Users/view.php:54
+msgid "Veröffentlicht"
+msgstr "Veröffentlicht"
+
+#: /Tags/view.php:67
+msgid "Willst du den # # {0} wirklich löschen?"
+msgstr "Willst du den # # {0} wirklich löschen?"
+
+#: /Users/add.php:12
+#: /Users/edit.php:17
+#: /Users/view.php:14
+msgid "Nutzerliste anzeigen"
+msgstr "Nutzerliste anzeigen"
+
+#: /Users/add.php:19
+#: /Users/index.php:11
+msgid "Nutzer hinzufügen"
+msgstr "Nutzer hinzufügen"
+
+#: /Users/add.php:25
+#: /Users/view.php:15
+msgid "Nutzer erstellen"
+msgstr "Nutzer erstellen"
+
+#: /Users/edit.php:13
+#: /Users/view.php:13
+msgid "Nutzer löschen"
+msgstr "Nutzer löschen"
+
+#: /Users/edit.php:15
+#: /Users/index.php:59
+#: /Users/view.php:72
+msgid "Bist du dir sicher # {0} zu löschen?"
+msgstr "Bist du dir sicher # {0} zu löschen?"
+
+#: /Users/edit.php:26
+#: /Users/view.php:12
+msgid "Nutzer ändern"
+msgstr "Nutzer ändern"
+
+#: /Users/edit.php:34
+msgid "Nutzer speichern"
+msgstr "Nutzer speichern"
+
+#: /Users/index.php:12
+msgid "Nutzer"
+msgstr "Nutzer"
+
+#: /Users/index.php:45
+msgid "Actions"
+msgstr "Actions"
+
+#: /Users/index.php:69
+msgid "letzte"
+msgstr "letzte"
+
+#: /Users/index.php:71
+msgid "nächste"
+msgstr "nächste"
+
+#: /Users/index.php:74
+msgid "Seite {{page}} von {{pages}}, zeigt {{current}} User(s) von insgesamt {{count}} User(n) "
+msgstr "Seite {{page}} von {{pages}}, zeigt {{current}} User(s) von insgesamt {{count}} User(n)"
+
+#: /Users/login.php:7
+msgid "Bitte geben Sie Ihre Email und Ihr Passwort ein"
+msgstr "Bitte geben Sie Ihre Email und Ihr Passwort ein"
+
+#: /Users/login.php:11
+msgid "Login"
+msgstr "Login"
+
+#: /Users/view.php:23
+msgid "Email"
+msgstr "Email"
+
+#: /Users/view.php:27
+msgid "Passwort"
+msgstr "Passwort"
+
+#: /Users/view.php:44
+msgid "Erstellte Rezepte"
+msgstr "Erstellte Rezepte"
+
+#: /Users/view.php:51
+msgid "Rezeptname"
+msgstr "Rezeptname"
+
+#: /layout/error.php:38
+msgid "Back"
+msgstr ""
+
+

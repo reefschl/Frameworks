@@ -1,0 +1,15 @@
+th::before {
+  content: var(--colheader1);
+}
+td:nth-child(2)::before {
+  content: var(--colheader2);
+}
+td:nth-child(3)::before {
+  content: var(--colheader3);
+}
+td:nth-child(4)::before {
+  content: var(--colheader4);
+}
+td.paid + td::before {
+  content: var(--colheader5);
+}
