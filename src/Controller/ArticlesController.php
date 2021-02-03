@@ -72,13 +72,13 @@ class ArticlesController extends AppController
      public function add()
        {
 
-        
+
            $article = $this->Articles->newEmptyEntity();
 
            $this->Authorization->authorize($article);
            if ($this->request->is('post')) {
                $article = $this->Articles->patchEntity($article, $this->request->getData());
-              
+
 
                // Hardcoding the user_id is temporary, and will be removed later
                // when we build authentication out.
